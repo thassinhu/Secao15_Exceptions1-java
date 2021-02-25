@@ -11,7 +11,9 @@ import model.exceptions.DomainException;
 public class Program {
 
 	public static void main(String[] args) {
-			
+		
+		System.out.println("Teste do gitHub - 1");
+		
 		Scanner sc = new Scanner(System.in);
 		SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
 		
